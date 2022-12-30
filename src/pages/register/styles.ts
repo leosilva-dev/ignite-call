@@ -32,7 +32,9 @@ export const Form = styled(Box, {
     }
 })
 
-
+export const FormError = styled(Text, {
+    color:'#f75a68'
+})
 
 
 
